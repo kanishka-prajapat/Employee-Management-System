@@ -1,4 +1,4 @@
-# 🧩 NexusHR – Smart Employee Management Platform
+# 🧩 NexusHR – Employee Management System
 
 NexusHR is a full-stack Employee Management System that handles the complete employee lifecycle—from onboarding and department management to project assignment and leave tracking.
 
@@ -13,24 +13,7 @@ This project is built to simulate a real-world HR system using modern backend an
 
 ---
 
-## 🖼️ Screenshots
 
-### 📊 Dashboard
-![Dashboard](./screenshots/dashboard.png)
-
-### 👨‍💼 Employee Management
-![Employees](./screenshots/employees.png)
-
-### 🏢 Department Module
-![Departments](./screenshots/departments.png)
-
-### 📁 Project Management
-![Projects](./screenshots/projects.png)
-
-### 📝 Leave System
-![Leaves](./screenshots/leaves.png)
-
----
 
 ## ⚙️ Features
 
@@ -126,9 +109,9 @@ This project is built to simulate a real-world HR system using modern backend an
 
 ```json
 {
-  "firstName": "Nitin",
-  "lastName": "Sahu",
-  "email": "nitin@example.com",
+  "firstName": "kanishka",
+  "lastName": "prajapat",
+  "email": "kanishka@example.com",
   "designation": "Software Engineer Intern",
   "salary": 90000,
   "departmentId": 1
@@ -168,7 +151,7 @@ This project helped me move from learning concepts to actually building a produc
 
 ## 👤 Author
 
-**Nitin Sahu**  
-- 📧 Email: nitinsahu147@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/nitinsahu147 
-- 🐙 GitHub: https://github.com/nitinsahu147
+**Kanishka Prajapat**  
+- 📧 Email: kanishkap331@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/kanishka-prajapat-cse/ 
+- 🐙 GitHub: https://github.com/kanishka-prajapat
